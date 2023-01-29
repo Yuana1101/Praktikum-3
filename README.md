@@ -1,4 +1,7 @@
 # Tugas Pertemuan 6 Praktikum 3 <hr> <br>
+Nama: Yuana eka putra yuha
+Nim: 312210703
+Kelas: TI.22.C.9
 
 # Latihan 1
 <br>
